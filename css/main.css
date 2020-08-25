@@ -1,0 +1,58 @@
+body{
+    /* background-color: #AAA; */
+    background-image: url(/assets/Background.jpg);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em;
+    margin-top: 25vw;   
+}
+h1{
+    color:white;
+}
+input{
+    background-color: white;
+    font-size: 6vw;
+    width: 12vw;
+    height: 12vw;
+    color: white;
+    margin:0;
+   opacity: 0.6;
+}
+#q1{
+    border-top:0;
+    border-left: 0;
+}
+#q2{
+    border-top:0;
+}
+#q3{
+    border-top: 0;
+    border-right: 0;
+}
+#q4{
+    border-left:0;
+}
+#q6{
+    border-right: 0;
+}
+#q7{
+    border-left: 0;
+    border-bottom: 0;
+}
+#q8{
+    border-bottom: 0;
+}
+#q9{
+    border-right:0 ;
+    border-bottom: 0;
+}
+#player{
+    display: inline;
+}
+#restart{
+    margin-top: 2%;
+    width: 10vw;
+    height: 6vw;
+    font-size: 1rem;
+    color: black
+}
